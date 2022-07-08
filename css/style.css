@@ -1469,11 +1469,13 @@ h3 {
   bottom: 0;
   left: 0;
   background-image: url(../img/about/me/chadaly.png);
-  background-repeat: repeat-x;
-  /*background-image: url(../img/about/man.png);*/
-  border-radius: 350px;
+  background-size: 724px 757px;
+  /* background-repeat: repeat-x;
+  background-image: url(../img/about/man.png);*/
+  opacity: 0.6;
+  border-radius: 400px;
   width: 724px;
-  height: 767px;
+  height: 757px;
   content: '';
 }
 
